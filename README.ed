@@ -1,0 +1,1 @@
+A **Career Guidance System** helps students and professionals choose suitable career paths by analyzing their interests, skills, and qualifications. It provides college/course details, scholarships, skill gap analysis, and career roadmaps. The system bridges education with industry needs, reduces confusion, and supports informed career planning for a better future.
